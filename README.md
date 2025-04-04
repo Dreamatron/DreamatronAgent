@@ -209,6 +209,3 @@ Copyright (c) 2025 Dreamatron
 
 ## License: GNU GENERAL PUBLIC LICENSE
 
-
-## Contributing
-Contributions are welcome, but likely after some foundations have been refined and solidified
