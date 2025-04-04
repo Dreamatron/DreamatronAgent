@@ -21,7 +21,7 @@ Model Context Protocol (MCP) https://modelcontextprotocol.io/introduction server
 
 # Work in Progress
 ## The plugin is rapidly being developed and it is still very early. 
-## Do not use in any Unreal project you care about.
+## Do not use in any Unreal project you care about in its current state
 
 Only current support is for Windows
 
